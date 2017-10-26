@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Homepage"
+        android:title="Homepage"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/Settings"
+        android:title="Settings"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/Exit"
+        android:title="Exit"
+        android:showAsAction="never"/>
+
+</menu>

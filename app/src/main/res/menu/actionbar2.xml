@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Sports"
+        android:title="Sports"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/Entertainment"
+        android:title="Entertainment"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/Technology"
+        android:title="Technology"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/Politics"
+        android:title="Politics"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/Settings"
+        android:title="Settings"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/Exit"
+        android:title="Exit"
+        android:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.com.rssfeeds.Activity2"
+    android:paddingTop="16dp"
+    android:layout_marginTop="@dimen/activity_vertical_margin">
+
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:id="@+id/row1">
+
+        <ImageView
+            android:src="@drawable/sp1"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Praneeth marches into finals"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row2">
+
+        <ImageView
+            android:src="@drawable/ent1"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Sonakshi Sinha:The CBFC needs to come to a consensus"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row3">
+
+        <ImageView
+            android:src="@drawable/tech1"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Self-Driving truck passes test"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row4">
+
+        <ImageView
+            android:src="@drawable/pol1"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Sharad Pawar lashes out at Congress"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row5">
+
+        <ImageView
+            android:src="@drawable/sp2"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="BVB upset with UCL rescheduling"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row6">
+
+        <ImageView
+            android:src="@drawable/pol2"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="22-year old shot dead in Srinagar"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row7">
+
+        <ImageView
+            android:src="@drawable/tech2"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Paytm partners with Genesis Luxury"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row8">
+
+        <ImageView
+            android:src="@drawable/ent2"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Hrithik Roshan meets dubbing artists"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row9">
+
+        <ImageView
+            android:src="@drawable/pol3"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Eknath Khadse meets opposition"
+            android:layout_width="match_parent" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row10">
+
+        <ImageView
+            android:src="@drawable/sp3"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Maria Sharapova criticises ITF"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row11">
+
+        <ImageView
+            android:src="@drawable/ent3"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Kailash Kher honoured with Padma Shri"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row12">
+
+        <ImageView
+            android:src="@drawable/tech3"
+            android:layout_width="240px"
+            android:layout_height="100px"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:text="Verily unveils Study Watch to track health"
+            android:layout_width="match_parent"/>
+    </TableRow>
+
+</TableLayout>
+
+</ScrollView>
